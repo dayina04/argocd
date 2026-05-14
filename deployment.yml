@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: cont-1
-        image: shaikmustafa/cycle
+        image: sanjaydayina/mine:netflix-clone
         ports:
         - containerPort: 80
